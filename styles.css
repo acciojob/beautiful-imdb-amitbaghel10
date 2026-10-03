@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.moviePic{
+    margin-left: 580px;
+    margin-top: 20px;
+    width: 350px;
+    height: 500px;
+    opacity: 95%;
+}
+
+.movieDetail{
+
+    position:absolute;
+    top: 75%;
+    width: 100%;
+    text-align: center;
+    font-size: 25;
+
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
